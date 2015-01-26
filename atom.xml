@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Happy Hack!]]></title>
+  <link href="http://jelitox.github.io/atom.xml" rel="self"/>
+  <link href="http://jelitox.github.io/"/>
+  <updated>2015-01-26T04:40:41-04:30</updated>
+  <id>http://jelitox.github.io/</id>
+  <author>
+    <name><![CDATA[Javier León aka @jelitox]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Como construir un blog en Github]]></title>
+    <link href="http://jelitox.github.io/blog/2015/01/03/como-construir-un-blog-en-github/"/>
+    <updated>2015-01-03T14:34:27-04:30</updated>
+    <id>http://jelitox.github.io/blog/2015/01/03/como-construir-un-blog-en-github</id>
+    <content type="html"><![CDATA[<p>This is a regular paragraph.</p>
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+
+<p>This is another regular paragraph.</p>
+]]></content>
+  </entry>
+  
+</feed>
